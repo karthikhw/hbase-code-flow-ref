@@ -1,14 +1,3 @@
-==============
-how HBase runs
-==============
-
-:Author: Gao Peng <funky.gao@gmail.com>
-:Description: internals of hbase
-:Revision: $Id$
-
-.. contents:: Table Of Contents
-.. section-numbering::
-
 
 TODO
 =====
